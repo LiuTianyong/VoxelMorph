@@ -1,0 +1,2 @@
+dataset/OASIS_split/train\OASIS_0001_0000.nii.gz
+dataset/OASIS_split/train\OASIS_0003_0000.nii.gz
